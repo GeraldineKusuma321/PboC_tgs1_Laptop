@@ -1,0 +1,24 @@
+D:\PBO\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\bin\Debug\net6.0-windows\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008.exe
+D:\PBO\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\bin\Debug\net6.0-windows\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008.deps.json
+D:\PBO\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\bin\Debug\net6.0-windows\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008.runtimeconfig.json
+D:\PBO\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\bin\Debug\net6.0-windows\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008.dll
+D:\PBO\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\bin\Debug\net6.0-windows\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008.pdb
+D:\PBO\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\obj\Debug\net6.0-windows\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008.csproj.AssemblyReference.cache
+D:\PBO\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\obj\Debug\net6.0-windows\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008.csproj.GenerateResource.cache
+D:\PBO\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\obj\Debug\net6.0-windows\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBO\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\obj\Debug\net6.0-windows\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008.AssemblyInfoInputs.cache
+D:\PBO\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\obj\Debug\net6.0-windows\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008.AssemblyInfo.cs
+D:\PBO\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\obj\Debug\net6.0-windows\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008.csproj.CoreCompileInputs.cache
+D:\PBO\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\obj\Debug\net6.0-windows\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008.dll
+D:\PBO\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\obj\Debug\net6.0-windows\refint\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008.dll
+D:\PBO\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\obj\Debug\net6.0-windows\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008.pdb
+D:\PBO\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\obj\Debug\net6.0-windows\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008.genruntimeconfig.cache
+D:\PBO\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\obj\Debug\net6.0-windows\ref\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008.dll
+D:\PBO\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\obj\Debug\net6.0-windows\PBO_pr_Penjualan_laptop__Geraldine_H.K_222410103008.Laptopp.resources
+D:\PBO\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\obj\Debug\net6.0-windows\PBO_pr_Penjualan_laptop__Geraldine_H.K_222410103008.Properties.Resources.resources
+D:\PBO\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\obj\Debug\net6.0-windows\PBO_pr_Penjualan_laptop__Geraldine_H.K_222410103008.Form2.resources
+D:\PBO\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\obj\Debug\net6.0-windows\PBO_pr_Penjualan_laptop__Geraldine_H.K_222410103008.Form3.resources
+D:\PBO\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\obj\Debug\net6.0-windows\PBO_pr_Penjualan_laptop__Geraldine_H.K_222410103008.Form4.resources
+D:\PBO\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PBO\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\bin\Debug\net6.0-windows\Npgsql.dll
+D:\PBO\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\obj\Debug\net6.0-windows\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008.csproj.CopyComplete

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "52T8b7FujTGPMrZnoDzXIsvaNDpB26VUxgwJ8/9U945tjWGMTM6iCSVHb8xYqogM82+KlmJM6jPLCezKSAIJUA==",
+  "success": true,
+  "projectFilePath": "D:\\PBO\\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008\\PBO pr_Penjualan laptop_ Geraldine H.K_222410103008.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
